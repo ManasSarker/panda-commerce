@@ -16,6 +16,10 @@
   cursor: pointer;
 }
 
+#backpack {
+  margin-bottom: 100px;
+}
+
 .price {
   color: red;
 }
@@ -57,9 +61,12 @@
   background-color: white;
 }
 
-.wholeBody {
+#shoes {
   margin-bottom: 100px;
 }
-#shoes {
+
+#subscribe {
+  background-color: #fceae8;
+  height: 300px;
   margin-bottom: 100px;
 }
